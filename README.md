@@ -4,9 +4,10 @@
 - CSS
 - JavaScript
 
-![Captura de tela 2023-09-13 225546](https://github.com/EricaSaires/Jogo-da-Velha/assets/142368214/8f3eea2c-c1c6-4f16-85c9-0c5e9dcddd46)
-![Captura de tela 2023-09-13 225617](https://github.com/EricaSaires/Jogo-da-Velha/assets/142368214/c7805916-6bab-45c1-9ce8-451d8b413c9d)
-![Captura de tela 2023-09-13 225633](https://github.com/EricaSaires/Jogo-da-Velha/assets/142368214/f0580520-86b2-40c4-abc3-4d84405f5be1)
-![Captura de tela 2023-09-13 225656](https://github.com/EricaSaires/Jogo-da-Velha/assets/142368214/a345d9a7-b67a-4fba-b1fa-dd3af347dc17)
+![Captura de tela 2023-09-13 230403](https://github.com/EricaSaires/Jogo-da-Velha/assets/142368214/0a68462b-fc5d-4420-b847-02cbe3c80271)
+![Captura de tela 2023-09-13 230603](https://github.com/EricaSaires/Jogo-da-Velha/assets/142368214/fe9a05c2-1424-490c-8237-d8e1f8cf8e12)
+![Captura de tela 2023-09-13 230240](https://github.com/EricaSaires/Jogo-da-Velha/assets/142368214/b17531b6-8d4c-4b64-b70d-b7f831fa8bd8)
+![Captura de tela 2023-09-13 230209](https://github.com/EricaSaires/Jogo-da-Velha/assets/142368214/0080c515-7928-4339-b2cf-e15323743b6b)
+
 
 # Link do projeto: https://jogo-da-velha-fawn.vercel.app/
